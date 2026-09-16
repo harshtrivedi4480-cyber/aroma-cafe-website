@@ -39,3 +39,9 @@ GitHub: https://github.com/harshtrivedi4480-cyber
   ## Project Update
 Improved project documentation and structure.
 
+## Technologies
+- React.js
+- JavaScript
+- HTML
+- CSS
+
