@@ -34,5 +34,8 @@ GitHub: https://github.com/harshtrivedi4480-cyber
 
 ⭐ If you like this project, consider giving it a star! 
 
-  <img width="1908" height="877" alt="image" src="https://github.com/user-attachments/assets/1c070d4e-2c64-4b3c-90b0-f9eea7bd37c0" />
+  <img width="1908" height="877" alt="image" src="https://github.com/user-attachments/assets/1c070d4e-2c64-4b3c-90b0-f9eea7bd37c0" /> 
+
+  ## Project Update
+Improved project documentation and structure.
 
